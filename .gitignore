@@ -1,0 +1,12 @@
+outputs/
+data/
+logs/
+graph/
+tmp/
+results/
+venv/
+*.pyc
+.DS_Store
+*/.DS_Store
+task*
+settings/
